@@ -1,9 +1,9 @@
 // @author peterpaleev
 // @title flame microphone 
 
-import { clamp, map } from '/flames/src/modules/num.js'
-import { CSS4 } from '/flames/src/modules/color.js'
-import { mix, smoothstep } from '/flames/src/modules/num.js'
+import { clamp, map } from '/flame/src/modules/num.js'
+import { CSS4 } from '/flame/src/modules/color.js'
+import { mix, smoothstep } from '/flame/src/modules/num.js'
 
 export const settings = { fps: 30, backgroundColor: 'black', color: 'white' }
 
